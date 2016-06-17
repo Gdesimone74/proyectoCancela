@@ -6,6 +6,8 @@ import vista.PanelCentral;
 import vista.PanelOeste;
 import mapa.Camino;
 import mapa.Mapa;
+import sun.net.www.content.image.gif;
+
 import java.awt.*;
 
 public class Inicio {
@@ -24,6 +26,14 @@ public class Inicio {
         System.out.println("holaa");
         System.out.println("la concha tu madre");
         System.out.println("vamoo");
+        int i=0;
+       if(i==0)
+       {
+    	   while(i<10)
+    	   {
+    		   i++;
+    	   }
+       }
     }
 	    
 	private static void components() {
