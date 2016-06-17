@@ -31,6 +31,7 @@ public class Inicio {
 		frame.setJMenuBar(menuBar);
 		c.add(new PanelCentral(), BorderLayout.CENTER);
 		c.add(new PanelOeste(), BorderLayout.WEST);
+		System.out.println("hola");
 	} 
 	
 	public static void cerrarVentana() {
