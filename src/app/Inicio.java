@@ -43,6 +43,10 @@ public class Inicio {
 		} catch (Exception e) {
 			// TODO: handle exception
 		}
+		while(frame.action(null, null))
+		{
+			System.out.println("hola");
+		}
 	} 
 	
 	public static void cerrarVentana() {
