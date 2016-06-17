@@ -23,6 +23,7 @@ public class Inicio {
         System.out.println("holaa");
         System.out.println("holaa");
         System.out.println("la concha tu madre");
+        System.out.println("vamoo");
     }
 	    
 	private static void components() {
