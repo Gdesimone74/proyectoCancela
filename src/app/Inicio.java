@@ -22,6 +22,12 @@ public class Inicio {
         frame.pack();
         frame.setLocationByPlatform(true);
         frame.setVisible(true);
+        try {
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+			System.out.println(e.getMessage());
+		}
          
     }
 	    
