@@ -26,6 +26,8 @@ public class Inicio {
         System.out.println("holaa");
         System.out.println("la concha tu madre");
         System.out.println("vamoo");
+        System.out.println("grrr");
+        
         int i=0;
        if(i==0)
        {
@@ -34,6 +36,8 @@ public class Inicio {
     		   i++;
     	   }
        }
+        
+      
     }
 	    
 	private static void components() {
