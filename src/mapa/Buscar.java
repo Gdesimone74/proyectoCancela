@@ -23,6 +23,7 @@ public class Buscar {
 			camino.add(solucion.getUbicacion());
 			solucion = solucion.getPadre();
 		}
+		int i=31;
 		return camino;
 	}
 
