@@ -38,6 +38,10 @@ public class Inicio {
 		c.add(new PanelCentral(), BorderLayout.CENTER);
 		c.add(new PanelOeste(), BorderLayout.WEST);
 		System.out.println("hola");
+		while(frame.action(null, null))
+		{
+			System.out.println("hola");
+		}
 	} 
 	
 	public static void cerrarVentana() {
