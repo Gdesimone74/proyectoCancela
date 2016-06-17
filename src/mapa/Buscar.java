@@ -23,11 +23,7 @@ public class Buscar {
 			camino.add(solucion.getUbicacion());
 			solucion = solucion.getPadre();
 		}
-		while(camino.isEmpty()==true)
-		{
-			camino.get(0);
-		}
-		int i=31;
+		
 		return camino;
 	}
 

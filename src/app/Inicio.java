@@ -22,27 +22,7 @@ public class Inicio {
         frame.pack();
         frame.setLocationByPlatform(true);
         frame.setVisible(true);
-        System.out.println("holaa");
-        System.out.println("holaa");
-        System.out.println("la concha tu madre");
-        System.out.println("vamoo");
-        System.out.println("grrr");
-        
-        int i=0;
-       if(i==0)
-       {
-    	   while(i<10)
-    	   {
-    		   i++;
-    		   System.out.println("asd");
-    		   while(i>40)
-    		   {
-    			   int j=1;
-    		   }
-    	   }
-       }
-        
-      
+         
     }
 	    
 	private static void components() {
