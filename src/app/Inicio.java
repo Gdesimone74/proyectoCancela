@@ -21,6 +21,7 @@ public class Inicio {
         frame.setLocationByPlatform(true);
         frame.setVisible(true);
         System.out.println("holaa");
+        System.out.println("holaa");
     }
 	    
 	private static void components() {
