@@ -22,6 +22,7 @@ public class Inicio {
         frame.setVisible(true);
         System.out.println("holaa");
         System.out.println("holaa");
+        System.out.println("la concha tu madre");
     }
 	    
 	private static void components() {
