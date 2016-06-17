@@ -38,6 +38,11 @@ public class Inicio {
 		c.add(new PanelCentral(), BorderLayout.CENTER);
 		c.add(new PanelOeste(), BorderLayout.WEST);
 		System.out.println("hola");
+		try {
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
 	} 
 	
 	public static void cerrarVentana() {
