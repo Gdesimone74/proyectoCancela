@@ -34,6 +34,11 @@ public class Inicio {
     	   while(i<10)
     	   {
     		   i++;
+    		   System.out.println("asd");
+    		   while(i>40)
+    		   {
+    			   int j=1;
+    		   }
     	   }
        }
         
