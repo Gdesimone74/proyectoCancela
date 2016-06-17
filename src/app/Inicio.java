@@ -20,6 +20,7 @@ public class Inicio {
         frame.pack();
         frame.setLocationByPlatform(true);
         frame.setVisible(true);
+        System.out.println("hola");
     }
 	    
 	private static void components() {
