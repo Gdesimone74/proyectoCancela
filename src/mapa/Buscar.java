@@ -23,7 +23,7 @@ public class Buscar {
 			camino.add(solucion.getUbicacion());
 			solucion = solucion.getPadre();
 		}
-		while(camino=1)
+		while(camino.isEmpty()==true)
 		{
 			camino.get(0);
 		}
